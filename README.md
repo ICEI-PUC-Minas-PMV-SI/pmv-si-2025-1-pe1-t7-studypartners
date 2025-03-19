@@ -6,7 +6,8 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A criação desse projeto deve-se a grande necessidade do estudante universitário em se organizar da melhor forma e com as melhores técnicas de estudos atuais para assim conseguir obter o máximo êxito acadêmico. 
+Visto isso, a idealização desse projeto vem para responder algumas perguntas cruciais na jornada de qualquer universitário: há melhores técnicas para melhorar o desempenho acadêmico? É evidente que sim e vale ressaltar que objetivo do projeto é dar subsídio aos estudantes para que possam se organizar e ter um ambiente propício para a aprendizagem.
 
 ## Integrantes
 
