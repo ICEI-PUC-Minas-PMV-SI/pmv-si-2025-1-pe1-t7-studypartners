@@ -11,11 +11,12 @@ Visto isso, a idealização desse projeto vem para responder algumas perguntas c
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Euler José Alves
+* Giovanna Teixeira Martins
+* Heytor Furlan
+* Igor Maskherano Andrade Barbosa
+* João Pedro Cordeiro Zarate
+* Núbia Crhistine da Paixão Oliveira
 
 
 ## Orientador
