@@ -32,8 +32,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-O que impulsionou a idealização deste projeto foi entender as dificuldades enfrentadas por estudantes ao tentar organizar seus estudos de maneira eficiente. Frequentemente, alunos se sentem perdidos e sobrecarregados com os deveres acadêmicos; dessa forma, ferramentas para facilitar o planejamento e organização acadêmica fazem-se necessários. 
-
+O que impulsionou a idealização deste projeto foi a compreensão das dificuldades enfrentadas por estudantes ao tentarem organizar seus estudos de maneira eficiente. Frequentemente, alunos se sentem perdidos e sobrecarregados com os deveres acadêmicos; dessa forma, ferramentas para facilitar o planejamento e organização fazem-se necessárias. Assim, o objetivo principal deste projeto é fornecer uma solução digital que auxilie os estudantes a alcançar êxito acadêmico, ajudando-os a se organizar estrategicamente, diminuindo o estresse e aumentando a produtividade. 
 
 ## Público-Alvo
 
