@@ -76,8 +76,25 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
+
+1- Cadastro de Alunos: Permitir que usuários inscrevam alunos com informações como nome, idade e curso.
+
+2- Gerenciamento de Turmas: Organizar alunos em grupos ou turmas conforme os critérios do curso.
+
+3- Agenda Personalizada: Oferecer uma área onde o usuário possa anotar datas importantes do seu curso, como provas, aulas e prazos de trabalhos.
+
+4- Comunicação Integrada: Facilitar interação entre alunos e professores via chat.
+
+5- Sistema de Login: Garantir acesso seguro por meio de login individual.
+
+6- Acompanhamento de Progresso: Fornecer gráficos ou tabelas para monitorar a evolução acadêmica do usuário.
+
+7- Gestão de Tarefas e Projetos: Oferecer um sistema onde os alunos possam acompanhar suas tarefas e projetos em andamento.
+
+8- Controle de Frequência: Registrar e monitorar a frequência em atividades do usuário.
+
+
+
 - [Requisitos Não Funcionais
   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
   correspondem a uma característica técnica, seja de usabilidade,
