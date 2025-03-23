@@ -1,6 +1,6 @@
 # Introdução
 
-Nos últimos anos a área da tecnologia tem evoluído rapidamente e se faz cada vez mais presente e necessária na rotina das pessoas do mundo inteiro. Apesar de garantir muitos benefícios e de ser indispensável para diversos setores da sociedade, a evolução tecnológica traz também alguns desafios: com os avanços, hoje em dia a maior parte das pessoas tem acesso à internet a qualquer momento, na palma de suas mãos e de forma praticamente ilimitada. O fator preocupante é que esse cenário pode prejudicar aqueles usuários que não fazem uso correto e moderado das aplicações disponíveis no mercado atual.
+Nos últimos anos, a área da tecnologia tem evoluído rapidamente e se faz cada vez mais presente e necessária na rotina das pessoas do mundo inteiro. Apesar de garantir muitos benefícios e de ser indispensável para diversos setores da sociedade, a evolução tecnológica traz também alguns desafios: com os avanços, hoje em dia a maior parte das pessoas tem acesso à internet a qualquer momento, na palma de suas mãos e de forma praticamente ilimitada. O fator preocupante é que esse cenário pode prejudicar aqueles usuários que não fazem uso correto e moderado das aplicações disponíveis no mercado atual.
 
 Partindo do ponto de vista da esfera educacional, que foi a base para a criação desse projeto, deve-se observar que os estudantes sempre apresentaram certas dificuldades para gerenciar os seus horários de estudo, prazos de entrega para trabalhos e provas, atividades extracurriculares, compromissos pessoais e, no caso de estudantes que trabalham, há ainda os compromissos relacionados à vida profissional. Com tantas exigências, era considerado normal que os estudantes pudessem se sentir estressados, ansiosos e sobrecarregados. Mas recentemente essas dificuldades tem se tornado ainda mais evidentes, pois a relação com a tecnologia trouxe um novo problema: o fácil acesso à internet, jogos e redes sociais, proporciona mais distrações e entretenimento e os estudantes tendem a procrastinar ainda mais suas tarefas acadêmicas, o que os leva a ter um baixo aproveitamento acadêmico.
 
@@ -8,11 +8,10 @@ A questão levantada por esse projeto visa responder a seguinte pergunta: seria 
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+A área acadêmica está cada vez mais exigente e o que se tem observado em escolas e universidades são estudantes cada vez mais estressados e sobrecarregados, além de um aumento significativo do número de casos de depressão e ansiedade. Somado à pressão gerada pelas expectativas na educação, os alunos se prejudicam também ao usar de forma desenfreada a internet, jogos e redes sociais como formas de procrastinar suas tarefas.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O principal problema percebido e para o qual se busca solução nesse projeto, é a dificuldade de organização de tarefas e a gestão do tempo de qualidade, afinal, o estudo eficiente não se baseia apenas no tempo dedicado, mas também na forma como esse tempo é utilizado. O aluno dos tempos modernos, necessita de apoio para saber como se organizar, conhecer métodos de estudo e saber qual se adapta à sua rotina e personalidade, além de estímulos para que queira estudar e evite se distrair com outras atividades que possam prejudicar o seu rendimento acadêmico.
+ 
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
