@@ -1,12 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Nos últimos anos a área da tecnologia tem evoluído rapidamente e se faz cada vez mais presente e necessária na rotina das pessoas do mundo inteiro. Apesar de garantir muitos benefícios e de ser indispensável para diversos setores da sociedade, a evolução tecnológica traz também alguns desafios: com os avanços, hoje em dia a maior parte das pessoas tem acesso à internet a qualquer momento, na palma de suas mãos e de forma praticamente ilimitada. O fator preocupante é que esse cenário pode prejudicar aqueles usuários que não fazem uso correto e moderado das aplicações disponíveis no mercado atual.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Partindo do ponto de vista da esfera educacional, que foi a base para a criação desse projeto, deve-se observar que os estudantes sempre apresentaram certas dificuldades para gerenciar os seus horários de estudo, prazos de entrega para trabalhos e provas, atividades extracurriculares, compromissos pessoais e, no caso de estudantes que trabalham, há ainda os compromissos relacionados à vida profissional. Com tantas exigências, era considerado normal que os estudantes pudessem se sentir estressados, ansiosos e sobrecarregados. Mas recentemente essas dificuldades tem se tornado ainda mais evidentes, pois a relação com a tecnologia trouxe um novo problema: o fácil acesso à internet, jogos e redes sociais, proporciona mais distrações e entretenimento e os estudantes tendem a procrastinar ainda mais suas tarefas acadêmicas, o que os leva a ter um baixo aproveitamento acadêmico.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+A questão levantada por esse projeto visa responder a seguinte pergunta: seria possível criar uma ferramenta tecnológica que, ao invés de distrair o aluno, possa auxiliar na organização e, mais que isso, que seja capaz estimular sua vontade de aprender?
 
 ## Problema
 
