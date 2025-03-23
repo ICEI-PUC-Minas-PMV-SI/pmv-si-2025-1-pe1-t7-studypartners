@@ -8,6 +8,9 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
+Roberto Carlos, um gestor financeiro de 30 anos, trabalha em uma empresa privada e viaja frequentemente a trabalho. Com o objetivo de aprimorar seu currículo e ampliar suas oportunidades profissionais, decidiu iniciar uma nova graduação a distância (EAD), já que sua rotina intensa não permite a participação em aulas presenciais.
+No entanto, ao iniciar o curso, sentiu grandes dificuldades, pois a sua carga de trabalho é extensa e os seus horários são irregulares. Essa situação tem afetado sua motivação, tornando o processo de aprendizado desafiador. Diante disso, Roberto busca estratégias para gerenciar melhor seu tempo e organizar um plano de estudos eficaz, garantindo assim um bom rendimento acadêmico e a continuidade de sua formação.
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
@@ -71,7 +74,7 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
 Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
+característica alvo da sua solução. Além disso, certifique-se de que 
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
