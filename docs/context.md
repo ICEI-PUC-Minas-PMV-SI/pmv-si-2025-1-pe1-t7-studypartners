@@ -1,8 +1,8 @@
 # Introdução
 
-Nos últimos anos, a área da tecnologia tem evoluído rapidamente e se faz cada vez mais presente e necessária na rotina das pessoas do mundo inteiro. Apesar de garantir muitos benefícios e de ser indispensável para diversos setores da sociedade, a evolução tecnológica traz também alguns desafios: com os avanços, hoje em dia a maior parte das pessoas tem acesso à internet a qualquer momento, na palma de suas mãos e de forma praticamente ilimitada. O fator preocupante é que esse cenário pode prejudicar aqueles usuários que não fazem uso correto e moderado das aplicações disponíveis no mercado atual.
+Nos últimos anos, a área da tecnologia tem evoluído rapidamente e se faz cada vez mais presente e necessária na rotina das pessoas do mundo inteiro. Apesar de garantir muitos benefícios e de ser indispensável para diversos setores da sociedade, a evolução tecnológica traz também alguns desafios: com os avanços, a maior parte das pessoas tem acesso à internet a qualquer momento, principalmente com os dispositivos móveis e de forma praticamente ilimitada. O fator preocupante é que esse cenário pode prejudicar aqueles usuários que não fazem uso correto e moderado das aplicações disponíveis no mercado atual.
 
-Partindo do ponto de vista da esfera educacional, que foi a base para a criação desse projeto, deve-se observar que os estudantes sempre apresentaram certas dificuldades para gerenciar os seus horários de estudo, prazos de entrega para trabalhos e provas, atividades extracurriculares, compromissos pessoais e, no caso de estudantes que trabalham, há ainda os compromissos relacionados à vida profissional. Com tantas exigências, era considerado normal que os estudantes pudessem se sentir estressados, ansiosos e sobrecarregados. Mas recentemente essas dificuldades tem se tornado ainda mais evidentes, pois a relação com a tecnologia trouxe um novo problema: o fácil acesso à internet, jogos e redes sociais, proporciona mais distrações e entretenimento e os estudantes tendem a procrastinar ainda mais suas tarefas acadêmicas, o que os leva a ter um baixo aproveitamento acadêmico.
+Partindo do ponto de vista da esfera educacional, que foi a base para a criação desse projeto, deve-se observar que os estudantes podem apresentar certas dificuldades para gerenciar os seus horários de estudo, prazos de entrega para trabalhos e provas, atividades extracurriculares, compromissos pessoais e, no caso de estudantes que trabalham, há ainda os compromissos relacionados à vida profissional. Com tantas exigências, é considerado normal que os estudantes possam se sentir estressados, ansiosos e sobrecarregados. Mas recentemente essas dificuldades têm se tornado ainda mais evidentes, pois a relação com a tecnologia trouxe um novo problema: o fácil acesso à internet, jogos e redes sociais, proporciona mais distrações e entretenimento e os estudantes tendem a procrastinar ainda mais suas tarefas acadêmicas, podendo implicar em baixo rendimento acadêmico.
 
 A questão levantada por esse projeto visa responder a seguinte pergunta: seria possível criar uma ferramenta tecnológica que, ao invés de distrair o aluno, possa auxiliar na organização e, mais que isso, que seja capaz estimular sua vontade de aprender?
 
@@ -10,35 +10,38 @@ A questão levantada por esse projeto visa responder a seguinte pergunta: seria 
 
 A área acadêmica está cada vez mais exigente e o que se tem observado em escolas e universidades são estudantes cada vez mais estressados e sobrecarregados, além de um aumento significativo do número de casos de depressão e ansiedade. Somado à pressão gerada pelas expectativas na educação, os alunos se prejudicam também ao usar de forma desenfreada a internet, jogos e redes sociais como formas de procrastinar suas tarefas.
 
-O principal problema percebido e para o qual se busca solução nesse projeto, é a dificuldade de organização de tarefas e a gestão do tempo de qualidade, afinal, o estudo eficiente não se baseia apenas no tempo dedicado, mas também na forma como esse tempo é utilizado. O aluno dos tempos modernos, necessita de apoio para saber como se organizar, conhecer métodos de estudo e saber qual se adapta à sua rotina e personalidade, além de estímulos para que queira estudar e evite se distrair com outras atividades que possam prejudicar o seu rendimento acadêmico.
- 
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O principal problema percebido e para o qual se busca solução nesse projeto, é a dificuldade de organização de tarefas e a gestão do tempo de qualidade, afinal, o estudo eficiente não se baseia apenas no tempo dedicado, mas também na forma como esse tempo é utilizado. O aluno dos tempos modernos necessita de apoio para saber como se organizar, conhecer métodos de estudo e saber qual se adapta à sua rotina e personalidade, além de estímulos para que queira estudar e evite se distrair com outras atividades que possam prejudicar o seu rendimento acadêmico.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O principal objetivo desse projeto é desenvolver uma aplicação web que poderá ser utilizada para ajudar na organização e planejamento dos estudantes. A ideia é oferecer um planner de estudos online que auxilie na gestão do tempo e que tenha também indicações de conteúdos para aprimoramento das técnicas de estudo, visando otimizar o desempenho acadêmico dos estudantes.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Nos seguintes tópicos, pode-se consultar de forma mais detalhada quais são os objetivos específicos e ações necessárias para o desenvolvimento dessa aplicação:
+
+• Realizar uma pesquisa inicial aprofundada para identificar e entender as principais dificuldades que os alunos enfrentam na organização dos seus estudos. Além disso, é importante que a aplicação passe por constantes atualizações que estejam de acordo com as mudanças observadas no cenário educacional e que considerem também o feedback dos próprios usuários;
+
+• Criar um planner com design intuitivo: o objetivo é desenvolver uma aplicação simples e prática, que seja fácil de usar;
+
+• Propor funcionalidades de acompanhamento de progresso: metas de estudo a curto, médio e longo prazo e o monitoramento das tarefas;
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+• Desenvolver funcionalidades que permitam a personalização do planner: os usuários precisam ter a liberdade de ajustar o planner conforme suas preferências, rotina e estilo de aprendizado;
+
+• Destinar espaço para que o estudante possa ter conhecimento sobre as principais técnicas de estudo, como: a revisão espaçada, o método Cornell e a "técnica do tomate", também conhecida como "Metódo Pomodoro".
 
 ## Justificativa
 
-O que impulsionou a idealização deste projeto foi a compreensão das dificuldades enfrentadas por estudantes ao tentarem organizar seus estudos de maneira eficiente. Frequentemente, alunos se sentem perdidos e sobrecarregados com os deveres acadêmicos; dessa forma, ferramentas para facilitar o planejamento e organização fazem-se necessárias. Assim, o objetivo principal deste projeto é fornecer uma solução digital que auxilie os estudantes a alcançar êxito acadêmico, ajudando-os a se organizar estrategicamente, diminuindo o estresse e aumentando a produtividade. 
+O que impulsionou a idealização deste projeto foi a compreensão das dificuldades enfrentadas por estudantes ao tentarem planejar seus estudos de maneira eficiente e se manterem focados em suas atividades. Nota-se que frequentemente os alunos se sentem esgotados e desorientados quanto à organização de seus deveres acadêmicos. Dessa forma, ferramentas para facilitar o planejamento e organização fazem-se necessárias e o objetivo principal deste projeto é fornecer uma solução digital que auxilie os estudantes a alcançar êxito acadêmico, ajudando-os a se organizar estrategicamente, diminuindo o estresse e aumentando a produtividade. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Inicialmente, este projeto foi proposto para ser usado apenas por estudantes universitários da rede pública ou particular de ensino que, geralmente, precisam conciliar a vida pessoal com as atividades de graduação, cursos complementares, atividades extracurriculares e o trabalho.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+No ensino fundamental e médio, a maioria dos alunos costuma ter acompanhamento dos pais e/ou responsáveis, uma rotina de responsabilidades mais leve e, por consequência, recebem certa orientação e cobrança quanto ao cumprimento de suas tarefas e conseguem dedicar mais tempo aos estudos. Entretanto, a rotina de jovens e adultos universitários é muito diferente e o planner é uma ótima opção para a fase de transição do ensino médio para o ensino superior, bem como uma ferramenta que pode auxiliar os estudantes durante toda a trajetória de graduação e pós-graduação.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Considerando a possibilidade do usuário definir suas metas de estudo e prazos, o uso da aplicação pode se estender, mesmo que em menor escala, à outros perfis, além dos universitários:
+
+• Alunos dos anos finais do ensino fundamental e de todo o ensino médio, de escolas públicas e particulares;
+
+• Alunos de cursos prepatatórios ou qualquer pessoa que esteja se preparando para provas e concursos, como o ENEM, ENCCEJA, entre outros;
+
+• Profissionais da área da educação, sejam eles professores, coordenadores, diretores, etc. Nesse caso, os profissionais poderiam utilizar a ferramenta para trabalhar questões sobre a importância de estruturar e seguir um planejamento com os estudantes ou promover uma gincana entre eles com objetivo de estimular o aprendizado, por exemplo.
