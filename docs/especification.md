@@ -1,5 +1,11 @@
 # Especificações do Projeto
 
+PROBLEMA
+Falta de gestão do tempo e de plano de estudo.
+IDEIA DE SOLUCAO
+Desenvolver um aplicativo baseado em um game (jogo) que colabora para o aprendizado de forma individual ou em grupo, de forma divertida e competitiva, estimulando o aluno a estar conectado ao aplicativo o máximo de tempo possível garantindo assim um melhor rendimento acadêmico.
+
+
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
