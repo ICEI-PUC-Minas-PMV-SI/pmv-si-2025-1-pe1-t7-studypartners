@@ -1,36 +1,24 @@
 # Especificações do Projeto
 
-PROBLEMA:
-Falta de gestão do tempo e de plano de estudo.
+Os principais problemas que levaram à criação deste projeto são a dificuldade de gerir o tempo de estudo e a falta de um planejamento adequado, que são observados em alunos de diversas idades e em especial, no que diz respeito aos estudantes universitários, que precisam conciliar uma grande carga de tarefas acadêmicas, pessoais e profissionais.
 
-IDEIA DE SOLUCAO:
-Desenvolver um aplicativo baseado em um game (jogo) que colabora para o aprendizado de forma individual ou em grupo, de forma divertida e competitiva, estimulando o aluno a estar conectado ao aplicativo o máximo de tempo possível garantindo assim um melhor rendimento acadêmico.
+A ideia apresentada como possível solução é desenvolver uma aplicação baseada em um game (jogo) que colabora para o aprendizado de forma individual ou em grupo, de forma divertida e competitiva: um planner online que oferece uma agenda, permite registrar e acompanhar o progresso nas tarefas e, além disso, um espaço para conhecer conteúdos relacionados aos métodos de estudo e a opção de criar grupos de estudos. 
 
+Dentro de um grupo de estudos, os usuários poderão competir entre si, da seguinte forma: o primeiro passo será definir um tema para aprender e montar um cronograma com os tópicos que deverão ser estudados pelos participantes e com os prazos para concluir cada um. Cada participante deverá estudar os tópicos dentro do tempo estipulado e registrar quando concluir uma tarefa. Ao concluir tarefas, o estudane irá pontuar e no prazo final do cronograma de estudos, o aluno que concluir mais tarefas (e acumular mais pontos) vence a competição.
 
+A aplicação tem como missão estimular o aluno a ficar conectado à internet de uma forma positiva: ao invés de perder tempo e procrastinar seus estudos devido ao uso de outros aplicativos, como as redes sociais e os jogos, o estudante passará mais tempo conectado ao planner e à seu grupo, se divertindo e sendo estimulado a aprender pela ideia de competição, garantindo assim um melhor rendimento acadêmico. 
 
-
-FALTA COMPLEMENTAR:  É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+A partir daqui, serão abordados mais detalhes relacionados ao projeto, como as pessoas que podem ser impactadas com a criação dessa aplicação e também os requisitos para que esse projeto tenha um bom desenvolvimento e cumpra com sua proposta de auxiliar o estudante.
 
 ## Personas
 
-Roberto Carlos, um gestor financeiro de 30 anos, trabalha em uma empresa privada e viaja frequentemente a trabalho. Com o objetivo de aprimorar seu currículo e ampliar suas oportunidades profissionais, decidiu iniciar uma nova graduação a distância (EAD), já que sua rotina intensa não permite a participação em aulas presenciais.
+• Roberto Carlos
+Um gestor financeiro de 30 anos, trabalha em uma empresa privada e viaja frequentemente a trabalho. Com o objetivo de aprimorar seu currículo e ampliar suas oportunidades profissionais, decidiu iniciar uma nova graduação a distância (EAD), já que sua rotina intensa não permite a participação em aulas presenciais.
+
 No entanto, ao iniciar o curso, sentiu grandes dificuldades, pois a sua carga de trabalho é extensa e os seus horários são irregulares. Essa situação tem afetado sua motivação, tornando o processo de aprendizado desafiador. Diante disso, Roberto busca estratégias para gerenciar melhor seu tempo e organizar um plano de estudos eficaz, garantindo assim um bom rendimento acadêmico e a continuidade de sua formação.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -38,9 +26,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Usuário do sistema  | Criar um grupo de estudos/adicionar meus amigos | Precisamos definir e seguir o mesmo cronograma de estudos |
-|Usuário do sistema  | 
+|Usuário do sistema  | Ter uma agenda para marcar datas de entrega de trabalhos e provas e outros eventos importantes | Não esquecer de fazer as atividades propostas e entregá-las no prazo adequado| 
+|Usuário do sistema  | Registrar cronograma de atividades com datas para estudar cada tópico | Fazer um planejamento e seguir as datas para estudar cada conteúdo|
+|Usuário do sistema  | Criar um grupo de estudos e adicionar meus amigos | O grupo pode se motivar a estudar e definir os prazos para concluir cada tarefa |
+|Usuário do sistema  | Marcar quando concluir minhas tarefas | Ter controle sobre o progesso nas atividades |
+|
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
@@ -54,13 +44,15 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O desenvolvimento do projeto depende de alguns requisitos que são divididas em dois grupos. A seguir é possível consultar cada um desses requisitos e o detalhamento de cada um deles. 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
+|RF-001| A aplicação deve permitir que o usuário crie um login usando seu e-mail e senha | ALTA |  
+|RF-002| A aplicação deve permitir que o usuário crie um perfil dentro da plataforma, contendo informações como nome, idade e curso.
+|RF-003| A aplicação deve que os usuários se organizem em grupos de estudos.
 |RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
 |RF-003| A aplicação deve permitir que o usuário crie um grupo de estudos e adicione seus amigos | ALTA | 
 
@@ -72,14 +64,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-
-1- Cadastro de Alunos: Permitir que usuários inscrevam alunos com informações como nome, idade e curso.
-
-2- Gerenciamento de Turmas: Organizar alunos em grupos ou turmas conforme os critérios do curso.
 
 3- Agenda Personalizada: Oferecer uma área onde o usuário possa anotar datas importantes do seu curso, como provas, aulas e prazos de trabalhos.
 
