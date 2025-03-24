@@ -6,8 +6,9 @@
 
 `SEMESTRE: 1º`
 
-A criação desse projeto deve-se à grande necessidade do estudante universitário em se organizar da melhor forma e com as melhores técnicas de estudos atuais para assim conseguir obter o máximo êxito acadêmico. 
-Visto isso, a idealização desse projeto vem para responder algumas perguntas cruciais na jornada de qualquer universitário: há melhores técnicas para melhorar o desempenho acadêmico? É evidente que sim e o projeto traz consigo um modelo de gamificação que colabora para o aprendizado de forma individual ou em grupo e de uma forma divertida e competitiva ao estimular ainda mais o aluno em sua jornada. Visto isso, vale ressaltar que o objetivo do projeto é dar subsídio aos estudantes para que possam se organizar e possuirem um ambiente propício para a aprendizagem, gerando assim, melhor aproveitamento e rendimento nas disciplinas cursadas.
+A criação deste projeto deve-se à grande necessidade de auxiliar os estudantes, em especial os universitários, que possuem dificuldade no planejamento de suas atividades acadêmicas e incentivá-los a usar técnicas de estudos mais atuais. Em uma época na qual a maior parte dos estudantes tem acesso ilimitado à internet, às redes sociais, aos jogos e à outras fontes de entretenimento, o objetivo desse projeto é usar a própria tecnologia de maneira favorável para ajudar o aluno a manter o foco e obter máximo aproveitamento em seus estudos.
+
+Esse projeto vem para responder algumas perguntas cruciais: seria possível criar uma ferramenta tecnológica que, ao invés de distrair o aluno, possa auxiliar na organização e, mais que isso, que seja capaz estimular sua vontade de aprender? Existem técnicas realmente eficazes para melhorar o desempenho acadêmico? É evidente que sim e essa proposta de aplicação procura unir um modelo convencional de planner com a gamificação das tarefas.  A proposta principal é garantir planejamento e aprendizado de uma forma divertida e estimular a competitividade entre os estudantes, que poderão disputar uns com os outros, a partir da criação de grupos de estudos e do cumprimento de metas que valem pontos. Dessa forma, espera-se que o aluno tenha mais interesse, foco e um melhor rendimento em suas tarefas. 
 
 ## Integrantes
 
