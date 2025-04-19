@@ -46,25 +46,24 @@ O desenvolvimento do projeto depende de alguns requisitos que são divididas em 
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário crie um login usando seu e-mail e senha | ALTA |  
-|RF-002| A aplicação deve permitir que o usuário crie um perfil dentro da plataforma, contendo informações como nome, idade e curso. | ALTA | 
-|RF-003| A aplicação deve fornecer uma agenda e permitir que o usuário agende eventos importantes, como datas de entrega de e trabalhos e provas. | ALTA |
-|RF-004| A aplicação deve permitir que o usuário crie um cronograma de estudo individual e defina suas próprias tarefas/metas e os prazos para cumprir cada uma delas. | ALTA |
-|RF-005| A aplicação deve permitir que o usuário registre quando concluir uma tarefa. | ALTA |
-|RF-006| A aplicação deve permitir a emissão de relatórios e gráficos que permitam ao usuário acompanhar seu rendimento. | MÉDIA |
-|RF-007| A aplicação deve permitir que os usuários se organizem em grupos de estudos e adicione seus amigos. | ALTA |
-|RF-008| A aplicação deve permitir que o grupo crie um cronograma de estudo e defina suas próprias tarefas/metas e os prazos para cumprir cada uma delas. | ALTA | 
-|RF-009| A aplicação deve permitir que o usuário pontue ao concluir uma tarefa definida pelo grupo. | ALTA |
-|RF-010| A aplicação deve permitir que os usuários do grupo acompanhem a frequência, o progresso e a pontuação dos demais integrantes. | ALTA | 
-|RF-011| A aplicação deve ter um chat que permita a comunicação entre os integrantes do grupo. | MÉDIA |
-|RF-012| A aplicação deve permitir que o usuário acesse os conteúdos sobre organização, rotina e educação que serão postados pelo administrador | MÉDIA |
-|RF-013| A aplicação deve permitir que o usuário personalize seu planner com temas e cores variados. | BAIXA |
+|RF-001| A aplicação deve permitir que o usuário crie um login usando seu e-mail e senha, bem como um perfil dentro da plataforma, contendo informações como nome, idade e curso. | ALTA | 
+|RF-002| A aplicação deve fornecer uma agenda e permitir que o usuário agende eventos importantes, como datas de entrega de e trabalhos e provas. | ALTA |
+|RF-003| A aplicação deve permitir que o usuário crie um cronograma de estudo individual e defina suas próprias tarefas/metas e os prazos para cumprir cada uma delas. | ALTA |
+|RF-004| A aplicação deve permitir que o usuário registre quando concluir uma tarefa. | ALTA |
+|RF-005| A aplicação deve permitir a emissão de relatórios e gráficos que permitam ao usuário acompanhar seu rendimento. | MÉDIA |
+|RF-006| A aplicação deve permitir que os usuários se organizem em grupos de estudos e adicione seus amigos. | ALTA |
+|RF-007| A aplicação deve permitir que o grupo crie um cronograma de estudo e defina suas próprias tarefas/metas e os prazos para cumprir cada uma delas. | ALTA | 
+|RF-008| A aplicação deve permitir que o usuário pontue ao concluir uma tarefa definida pelo grupo. | ALTA |
+|RF-009| A aplicação deve permitir que os usuários do grupo acompanhem a frequência, o progresso e a pontuação dos demais integrantes. | ALTA | 
+|RF-010| A aplicação deve ter um chat que permita a comunicação entre os integrantes do grupo. | MÉDIA |
+|RF-011| A aplicação deve permitir que o usuário acesse os conteúdos sobre organização, rotina e educação que serão postados pelo administrador | MÉDIA |
+|RF-012| A aplicação deve permitir que o usuário personalize seu planner com temas e cores variados. | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser implementada seguindo o conceito Mobile Frist | MÉDIA |
+|RNF-001| A aplicação deve ser implementada seguindo o conceito Mobile First | MÉDIA |
 |RNF-002| A aplicação deve estar disponível 24h por dia | ALTA |
 |RNF-003| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-004| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
