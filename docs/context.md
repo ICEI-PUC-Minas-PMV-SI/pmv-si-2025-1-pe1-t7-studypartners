@@ -18,8 +18,6 @@ O principal objetivo desse projeto é desenvolver uma aplicação web que poder�
 
 Nos seguintes tópicos, pode-se consultar de forma mais detalhada quais são os objetivos específicos e ações necessárias para o desenvolvimento dessa aplicação:
 
-• Realizar uma pesquisa inicial aprofundada para identificar e entender as principais dificuldades que os alunos enfrentam na organização dos seus estudos. Além disso, é importante que a aplicação passe por constantes atualizações que estejam de acordo com as mudanças observadas no cenário educacional e que considerem também o feedback dos próprios usuários;
-
 • Criar um planner com design intuitivo: o objetivo é desenvolver uma aplicação simples e prática, que seja fácil de usar;
 
 • Propor funcionalidades de acompanhamento de progresso: metas de estudo a curto, médio e longo prazo e o monitoramento das tarefas;
