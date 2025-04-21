@@ -16,8 +16,8 @@ Esse projeto vem para responder algumas perguntas cruciais: seria possível cria
 * Giovanna Teixeira Martins
 * Heytor Furlan
 * Igor Maskherano Andrade Barbosa
-* João Pedro Cordeiro Zarate
 * Núbia Crhistine da Paixão Oliveira
+* Rômulo Ruggiero
 
 
 ## Orientador
