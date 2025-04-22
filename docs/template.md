@@ -6,7 +6,9 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+Os layouts das páginas seguem um padrão limpo e responsivo. Deve-se manter o logo do sistema visível no topo da página, alinhado à esquerda. Menus de navegação devem seguir um formato horizontal simples, com espaçamento adequado entre itens. Botões e elementos interativos devem utilizar os estilos de cor definidos na seção anterior e manter uma aparência consistente em toda a aplicação.
+
+Elementos como cards, caixas de informação e formulários devem ter cantos levemente arredondados (border-radius: 8px ou talvez 10px) e usar sombras suaves para destacar seções importantes.
 
 
 ## Cores
