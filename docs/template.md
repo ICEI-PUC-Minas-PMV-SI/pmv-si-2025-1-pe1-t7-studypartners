@@ -35,7 +35,7 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 - Título de página:  Poppins 
 - Titulo de seção:  Roboto 
 - Rótulos de componentes: Roboto 
-- Open Sans:   Para o corpo do texto   
+- Para o corpo do texto: Open Sans     
 
 ## Iconografia
 
