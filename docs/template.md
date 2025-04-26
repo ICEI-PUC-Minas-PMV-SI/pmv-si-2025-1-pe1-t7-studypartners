@@ -32,10 +32,10 @@ A ideia é que as cores mais claras sejam usadas como preenchimento e as cores m
 
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
 
-Título de página:  Poppins 
-Titulo de seção:  Roboto 
-Rótulos de componentes: Roboto 
-Open Sans:   Para o corpo do texto   
+- Título de página:  Poppins 
+- Titulo de seção:  Roboto 
+- Rótulos de componentes: Roboto 
+- Open Sans:   Para o corpo do texto   
 
 ## Iconografia
 
