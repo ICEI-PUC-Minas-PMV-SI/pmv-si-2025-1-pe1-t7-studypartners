@@ -130,7 +130,7 @@ Código para inserir o ícone: <span class="material-symbols-outlined">
 notifications
 </span>
 
-![chat_bubble_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/2539b1fa-92db-4696-9620-5ef52944e538) Ícone para bate papo
+![chat_bubble_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/2539b1fa-92db-4696-9620-5ef52944e538) Ícone para bate-papo
 
 Código para inserir o ícone: <span class="material-symbols-outlined">
 chat_bubble
@@ -142,7 +142,7 @@ Código para inserir o ícone: <span class="material-symbols-outlined">
 add
 </span>
 
-![event_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/3c3b3f89-6225-4083-96e5-df6b294b8655) Ícone para conograma
+![event_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/3c3b3f89-6225-4083-96e5-df6b294b8655) Ícone para cronograma
 
 Código para inserir o ícone: <span class="material-symbols-outlined">
 event
