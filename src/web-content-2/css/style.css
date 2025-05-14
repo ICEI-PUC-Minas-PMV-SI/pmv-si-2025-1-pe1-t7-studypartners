@@ -1,1 +1,86 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+body.login-page { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    background-color: #D6F77F; 
+}
 
+.auth-card {
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 4px;
+    border-color: black;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px; 
+    text-align: center; 
+}
+
+.logo {
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left; 
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input[type="email"],
+.form-group input[type="password"],
+.form-group input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+
+.btn {
+    display: inline-block; 
+    padding: 10px 20px;
+    border: 2px solid #B8EE30;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #D6F77F; 
+    border: 2px solid #B8EE30;
+    border-radius: 4px;
+    color: black;
+    width: 100%; 
+    margin-top: 10px;
+}
+
+.auth-links {
+    margin-top: 20px;
+}
+
+.auth-links .link,
+.auth-links p a {
+    color: #007bff;
+    text-decoration: none;
+}
+.auth-links p {
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+.menu-principal {
+    background-color: white;
+}
