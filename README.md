@@ -13,8 +13,6 @@ Esse projeto vem para responder algumas perguntas cruciais: seria possível cria
 ## Integrantes
 
 * Euler José Alves
-* Giovanna Teixeira Martins
-* Heytor Furlan
 * Igor Maskherano Andrade Barbosa
 * Núbia Crhistine da Paixão Oliveira
 * Rômulo Ruggiero
