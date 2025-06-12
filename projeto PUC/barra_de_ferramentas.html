@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barra de Ferramentas</title>
+</head>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+/* Estilo dos botões */
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #005fa3;
+}
+
+/* Estilo do link "Voltar para o Menu Principal" */
+.back-link {
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: #0077cc;
+  border: 1px solid #0077cc;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.back-link:hover {
+  background-color: #0077cc;
+  color: #fff;
+}
+</style>
+<body>
+    <div class="container">
+        <a href="configurações.html" class="button">configurações</a>
+        <button class="button">sair</button>
+        <a href="index.html" class="back-link">Voltar para o Menu Principal</a>
+    </div>
+</body>
+</html>

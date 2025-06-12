@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Configurações</title>
+  <style>
+    /* Estilos gerais */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .field {
+      margin: 15px 0;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: #555;
+      font-weight: bold;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    select {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    button {
+      display: block;
+      margin: 20px auto 0;
+      padding: 10px 20px;
+      background-color: #0077cc;
+      border: none;
+      border-radius: 4px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #005fa3;
+    }
+  </style>
+</head>
+<body>
+    <button onclick="window.history.back()">Voltar</button>
+  <div class="container">
+    <h1>Configurações</h1>
+    <div class="field">
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" placeholder="Digite seu nome">
+    </div>
+    <div class="field">
+      <label for="email">E-mail:</label>
+      <input type="email" id="email" placeholder="Digite seu e-mail">
+    </div>
+    <div class="field">
+      <label for="senha">Senha:</label>
+      <input type="password" id="senha" placeholder="Digite sua senha">
+    </div>
+    <button onclick="salvarConfiguracoes()">Salvar Configurações</button>
+  </div>
+
+  <script>
+    function salvarConfiguracoes() {
+      // Coleta os valores dos campos
+      const nome = document.getElementById('nome').value;
+      const email = document.getElementById('email').value;
+      const senha = document.getElementById('senha').value;
+      const tema = document.getElementById('tema').value;
+      
+      // Simulação do salvamento (você pode integrar com localStorage ou backend)
+      alert(`Configurações salvas com sucesso!
+Nome: ${nome}
+E-mail: ${email}
+Tema: ${tema}`);
+    }
+  </script>
+</body>
+</html>
