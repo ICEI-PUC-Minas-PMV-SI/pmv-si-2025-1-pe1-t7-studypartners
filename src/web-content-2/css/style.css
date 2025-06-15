@@ -23,8 +23,9 @@ body.login-page {
 }
 
 .logo {
-    max-width: 300px;
+    max-width: 150px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 .form-group {
@@ -46,6 +47,16 @@ body.login-page {
     border: 1px solid black;
     border-radius: 4px;
     box-sizing: border-box; 
+}
+
+.error-message {
+    font-weight: 600;
+    color: #b61515;
+    font-size: 14px;
+    visibility: hidden;
+}
+.error-message.show {
+    visibility: visible;
 }
 
 .btn {
@@ -83,4 +94,95 @@ body.login-page {
 }
 .menu-principal {
     background-color: white;
+}
+
+.agenda {
+    display: flex;
+    flex-direction: column;
+    padding: 0 1rem;
+}
+
+.agenda.hide {
+    display: none;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+}
+
+.agenda .card {
+    display: flex;
+    flex-direction: column;
+    flex: 100%;
+    text-align: center;
+    gap: 1rem;
+    font-weight: 600;
+    background-color: #3d3d3d;
+    padding: 50px 1rem;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    color: #e3e3e3;
+    cursor: pointer;
+}
+.agenda .card img {
+    max-width: 40px;
+}
+.agenda .card:not([disabled]):hover {
+    background-color: #323232;
+}
+
+.agenda .card[disabled] {
+    cursor: not-allowed;
+}
+
+.adicionar-agenda-btn {
+    background-color: #3d3d3d;
+    outline: 0;
+    border: 0;
+    padding: .25rem;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.adicionar-agenda-btn:hover {
+    background-color: #323232;
+}
+
+.cadastrar-agenda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cadastrar-agenda.hide {
+    display: none;
+}
+
+.agenda-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 1rem 0;
+}
+
+.agenda-item {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    background-color: #D6F77F;
+    padding: 1.5rem;
+    border-radius: 16px;
+    font-size: 14px;
+    flex: auto;
+}
+
+.agenda-item p {
+    margin: 0;
 }

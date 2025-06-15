@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Criar Conta - StudyPartners</title>
-    <link rel="stylesheet" href="css/style.css"> 
+    <link rel="stylesheet" href="css/style.css">
+    <script src="./js/cadastro.js"></script>
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
 </head>
 <body class="login-page"> 
 
@@ -12,10 +15,9 @@
         <div class="auth-card" style="padding-top: 15px; padding-bottom: 20px;">
 
             <div class="card-header" style="position: relative; text-align: center; margin-bottom: 10px;">
-               
                 <div style="text-align: center; margin-bottom: 15px;">
-                <img src="images/logo-provisoria.png" alt="Logo StudyPartners" class="logo">
-            </div>
+                    <img src="./img/logo.svg" alt="Logo StudyPartners" class="logo">
+                </div>
             </div>
 
             <h1 style="text-align: center; font-size: 1.4em; font-weight: bold; margin-top: 0; margin-bottom: 25px;">
@@ -53,11 +55,16 @@
                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
                 </div>
 
-                <button type="submit" class="btn btn-primary"
-                        style="display: block; width: 100%; text-align: center; padding: 12px 0; box-sizing: border-box; font-size: 1em; text-transform: uppercase;">
-                    Criar conta
-                </button>
+                <button
+                    class="register-btn btn btn-primary"
+                    style="display: block; width: 100%; text-align: center; margin-bottom: 12px; padding: 10px 0; box-sizing: border-box;"
+                    type="button"
+                >Criar conta</button>
             </form>
+
+            <div class="error-message-container">
+                <p class="error-message">Erro ao criar conta.</p>
+            </div>
 
             <div style="text-align: center; margin-top: 20px; font-size: 0.9em;">
                 <p style="margin: 0;">Já tem uma conta? <a href="login.html" class="link">Entrar</a></p>

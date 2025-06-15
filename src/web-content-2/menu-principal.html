@@ -5,36 +5,44 @@
         <meta name="viewport" content="width= device-width, initial-scale=1.0">
         <title>Menu Principal</title>
         <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+        <script src="./js/index.js"></script>
     </head>
 
     <body class="menu-principal">
         <main class="barra de ferramentas">
-        
-            <div class="container" style="text-align: center; margin-top: 15px;">
-                <button class="button">Página inicial</button>
-                <button class="button">Configurações</button>
-                <button class="button">Sair</button>
-                
+            <div class="container" style="display:flex; justify-content: center; flex-direction: column; align-items: center; margin-top: 15px;">
+                <img src="./img/logo.svg" alt="Logo StudyPartners" class="logo">
+                <button class="button logout">Sair</button>
             </div>
         </main>
 
         <main class="menu">
             <div class="agenda">
-
                 <h1 style="text-align: center; font-size: 1.8em; font-weight: bold; margin-top: 15px;">
-                    Bem-vindo(a) ao Menu Principal
+                    Bem-vindo(a), <span class="logged-user"></span>
                 </h1>
 
-                <h2 style="text-align: left; font-size: 0.9em; font-weight: bold;">
-                    Minha agenda 
-                </h2>
-
+                <div class="items">
+                    <div class="card" id="agenda-card">
+                        <img src="./img/icons/agenda.svg" alt="">
+                        AGENDA
+                    </div>
+                    <div class="card" disabled>
+                        <img src="./img/icons/estudos.svg" alt="">
+                        MEUS ESTUDOS (Em breve)
+                    </div>
+                    <div class="card" disabled>
+                        <img src="./img/icons/amigos.svg" alt="">
+                        AMIGOS (Em breve)
+                    </div>
+                    <div class="card" disabled>
+                        <img src="./img/icons/grupos.svg" alt="">
+                        MEUS GRUPOS (Em breve)
+                    </div>
+                </div>
             </div>
-        
-        </main>
-
-                
+        </main> 
     </body>
-
-
 </html>

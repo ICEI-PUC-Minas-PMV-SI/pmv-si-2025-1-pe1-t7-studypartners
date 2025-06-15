@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width= device-width, initial-scale=1.0">
+        <title>Menu Principal</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+        <script src="./js/index.js"></script>
+    </head>
+
+    <body>
+        <main>
+            <div class="container" style="display:flex; justify-content: center; flex-direction: column; align-items: center; margin-top: 15px;">
+                <img src="./img/logo.svg" alt="Logo StudyPartners" class="logo">
+            </div>
+        </main>
+
+        <main class="menu">
+            <div class="agenda">
+                <h1 style="display: flex; justify-content: space-between; gap: 1rem; font-size: 1.8em; font-weight: bold; margin-top: 15px;">
+                    Minha Agenda
+
+                    <button class="adicionar-agenda-btn" type="button">
+                        <img src="./img/icons/adicionar.svg" alt="">
+                    </button>
+                </h1>
+
+                <div class="agenda-items">
+                    
+                </div>
+            </div>
+
+            <div class="cadastrar-agenda hide">
+                <form action="#" method="post">
+                    <div class="form-group">
+                        <label for="titulo" style="font-weight: normal; font-size: 0.9em; display: block; margin-bottom: 3px;">Título</label>
+                        <input type="text" id="titulo" name="titulo" required
+                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="data_inicio" style="font-weight: normal; font-size: 0.9em; display: block; margin-bottom: 3px;">Data de início</label>
+                        <input type="date" id="data_inicio" name="data_inicio" required
+                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="data_final" style="font-weight: normal; font-size: 0.9em; display: block; margin-bottom: 3px;">Data final</label>
+                        <input type="date" id="data_final" name="data_final" required
+                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="categoria" style="font-weight: normal; font-size: 0.9em; display: block; margin-bottom: 3px;">Categoria</label>
+                        <input type="text" id="categoria" name="categoria" required
+                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="descricao" style="font-weight: normal; font-size: 0.9em; display: block; margin-bottom: 3px;">Descrição</label>
+                        <input type="text" id="descricao" name="descricao" required
+                            style="width: 100%; padding: 10px; border: 1px solid black; border-radius: 4px; box-sizing: border-box;">
+                    </div>
+
+                    <button
+                        class="new-agenda-btn btn btn-primary"
+                        style="display: block; width: 100%; text-align: center; margin-bottom: 12px; padding: 10px 0; box-sizing: border-box;"
+                        type="button"
+                    >Salvar</button>
+
+                    <a href="#" class="cancel-creation">Cancelar</a>
+                </form>
+            </div>
+        </main> 
+    </body>
+</html>
