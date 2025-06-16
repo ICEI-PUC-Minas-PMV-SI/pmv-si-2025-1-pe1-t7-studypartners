@@ -91,7 +91,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 
 
-
 **Caso de Teste** | **CT-LOG-002 – Tentativa de login com campo E-mail em branco**
 ------------------ | :-------------------------------------------
 **Procedimento** | 1. Acessar a página `login.html`. <br> 2. Deixar o campo "E-mail" em branco. <br> 3. Preencher o campo "Senha" com "senha123". <br> 4. Clicar no botão "Entrar".
@@ -102,7 +101,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 
 
-
 **Caso de Teste** | **CT-LOG-003 – Tentativa de login com campo Senha em branco**
 ------------------ | :-------------------------------------------
 **Procedimento** | 1. Acessar a página `login.html`. <br> 2. Preencher o campo "E-mail" com "teste.valido@exemplo.com". <br> 3. Deixar o campo "Senha" em branco. <br> 4. Clicar no botão "Entrar".
@@ -110,7 +108,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Resultado esperado** | A mensagem de erro "O campo Senha é obrigatório." é exibida abaixo do campo Senha. <br> O formulário não é submetido.
 **Dados de entrada** | E-mail: "teste.valido@exemplo.com", <br> Senha: "".
 **Resultado obtido** | Aprovado
-
 
 
 
@@ -138,7 +135,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 
 
-
 **Caso de Teste** | **CT-RS-002 – Tentativa de solicitação de redefinição com campo E-mail em branco**
 ------------------ | :-------------------------------------------
 **Procedimento** | 1. Acessar a página `redefinir-senha.html`. <br> 2. Deixar o campo "E-mail" em branco. <br> 3. Clicar no botão "Enviar".
@@ -146,7 +142,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Resultado esperado** | A mensagem de erro "O campo E-mail é obrigatório." é exibida abaixo do campo E-mail. <br> O formulário não é submetido.
 **Dados de entrada** | E-mail: "".
 **Resultado obtido** | Aprovado
-
 
 
 
@@ -224,7 +219,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Requisitos associados** | RF-BBB (Substitua pelo ID do requisito funcional de navegação para login, se houver)
 **Resultado esperado** | O usuário é redirecionado para a página `login.html`.
 **Dados de entrada** | N/A (Ação de clique no botão "Entrar").
-**Resultado obtido** | 
+**Resultado obtido** | Aprovado
 
 
 
@@ -256,7 +251,3 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Resultado esperado** | A mensagem "Botão "Cadastrar-se" da página de Boas-vindas clicado. Redirecionando para: [URL completa para criar-conta.html]" é exibida no console do navegador. <br> O usuário é redirecionado para `criar-conta.html`.
 **Dados de entrada** | N/A (Ação de clique no botão "Cadastrar-se").
 **Resultado obtido** | Aprovado
-
-
-
----
